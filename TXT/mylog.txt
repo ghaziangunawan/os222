@@ -17,6 +17,7 @@ ZCZC W02 100 L02  OS ZOOM meetings Lecture
 ZCZC W02 60 L06 skimming and scanning silberchatz ch 16
 ZCZC W02 100 L02  OS ZOOM meetings Lecture
 ZCZC W02 30 L11 watching introduction to cybersecurity
+ZCZC W02 3 L05 Doing week 2 quiz
 ZCZC W02 30 L12 Generating,signing,exporting GNuPG public key
 ZCZC W02 5 L13 Updating links
 ZCZC W02 10 L09 Changing debian username to github username
