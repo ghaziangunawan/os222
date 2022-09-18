@@ -28,7 +28,7 @@ Cheatseets for most commonly used linux commands
 4. [C Programming Basics](https://www.dummies.com/article/technology/computers/operating-systems/linux/linux-for-dummies-cheat-sheet-209505/)<br>
 Complete beginner guide to the C Language
 
-5. [public key vs private key](https://www.geeksforgeeks.org/difference-between-private-key-and-public-key/)
+5. [public key vs private key](https://www.geeksforgeeks.org/difference-between-private-key-and-public-key/)<br>
 difference between a public key and a private key
 
 
