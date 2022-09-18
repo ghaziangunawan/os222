@@ -25,4 +25,10 @@ how you what an operating system is and talk about a few of the most common oper
 3. [Linux for dummies cheatsheet](https://www.dummies.com/article/technology/computers/operating-systems/linux/linux-for-dummies-cheat-sheet-209505/)<br>
 Cheatseets for most commonly used linux commands
 
+4. [C Programming Basics](https://www.dummies.com/article/technology/computers/operating-systems/linux/linux-for-dummies-cheat-sheet-209505/)<br>
+Complete beginner guide to the C Language
+
+5. [public key vs private key](https://www.geeksforgeeks.org/difference-between-private-key-and-public-key/)
+difference between a public key and a private key
+
 
