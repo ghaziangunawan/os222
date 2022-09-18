@@ -13,3 +13,17 @@ ZCZC W01 100 L02  OS ZOOM meetings Lecture
 ZCZC W01 100 L02  OS ZOOM meetings Lecture
 ZCZC W01 3 L05 QUIZ
 ZCZC W01 100 L11 Assignment 1 
+ZCZC W02 100 L02  OS ZOOM meetings Lecture
+ZCZC W02 60 L06 skimming and scanning silberchatz ch 16
+ZCZC W02 100 L02  OS ZOOM meetings Lecture
+ZCZC W02 30 L11 watching introduction to cybersecurity
+ZCZC W02 30 L12 Generating,signing,exporting GNuPG public key
+ZCZC W02 5 L13 Updating links
+ZCZC W02 10 L09 Changing debian username to github username
+ZCZC W02 10 L12 Regenerating GNuPG public key 
+ZCZC W02 20 L14 Reviewing 10 links and creating myrank.txt
+ZCZC W02 10 L15 Assignment #05
+ZCZC W02 5 L03 commit and push changes to github
+ZCZC W02 20 L16 Assignment #06
+
+
