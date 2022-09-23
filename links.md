@@ -31,4 +31,10 @@ Complete beginner guide to the C Language
 5. [public key vs private key](https://www.geeksforgeeks.org/difference-between-private-key-and-public-key/)<br>
 difference between a public key and a private key
 
+# WEEK 03
+6. [10 useful linux disk commands](https://www.binarytides.com/linux-command-check-disk-partitions/)<br>
+Some useful linux disk commands to try 
+
+7. [Virtual Memory Explanation](https://www.techtarget.com/searchstorage/definition/virtual-memory)<br>
+quick explanation about virtual memory
 
