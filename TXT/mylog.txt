@@ -35,6 +35,17 @@ ZCZC W03 10 L05 QUIZ 02
 ZCZC W03 60 L06 skimming and scanning silberchatz ch 15
 ZCZC W03 10 L05 QUIZ 01
 ZCZC W03 60 L09 Finishing Assignment
+ZCZC W04 100 L02  OS ZOOM meetings Lecture
+ZCZC W04 100 L11 Doing the weekly assignment
+ZCZC W04 100 L02 Offline Class
+ZCZC W04 10 L05 QUIZ 02
+ZCZC W04 120 L06 skimming and scanning silberchatz ch 9
+ZCZC W04 60 L06 skimming and scanning silberchatz slides ch 9
+ZCZC W04 3 L05 QUIZ 01
+ZCZC W04 10 L03 GitHub related
+ZCZC W04 10 L04 GitHub Pages related
+ZCZC W04 60 L09 Finishing Assignment
+
 
 
 
