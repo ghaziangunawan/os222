@@ -45,6 +45,24 @@ ZCZC W04 3 L05 QUIZ 01
 ZCZC W04 10 L03 GitHub related
 ZCZC W04 10 L04 GitHub Pages related
 ZCZC W04 60 L09 Finishing Assignment
+ZCZC W02 100 L02  OS ZOOM meetings Lecture
+ZCZC W02 60 L06 skimming and scanning silberchatz ch 10
+ZCZC W02 100 L02  OS offline class
+ZCZC W05 30 L31 Configuring and trying low memory debian guest
+ZCZC W02 3 L05 Doing week 2 quiz
+ZCZC W05 10 L26 Decrypt and extracting file WEEK05.tar.bz2.asc
+ZCZC W05 5 L23 checking script
+ZCZC W05 10 L23 Running 00-install-to-bin.sh and 01-Version-Check.sh
+ZCZC W05 5 L23 Running 05-WEEK05a.sh
+ZCZC W05 40 L25 creating and modifying memory/mymemory2.c
+ZCZC W05 7 L23 Run 05-WEEK05b.sh
+ZCZC W05 2 L40 update myupdate.txt
+ZCZC W05 7 L43 update myrank.txt
+ZCZC W05 15 L41 update mylog.txt
+ZCZC W05 10 L23 Run myscript.sh
+ZCZC W02 5 L13 Updating links
+ZCZC W02 20 L14 Reviewing 10 links and creating myrank.txt
+ZCZC W02 5 L03 commit and push changes to github
 
 
 
