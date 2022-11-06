@@ -1,4 +1,4 @@
-# WEEKLY 3 of 10 RANKS
+# WEEKLY 5 of 10 RANKS
 ZCZC W02 hanstm
 ZCZC W02 hugo-setiawan
 ZCZC W02 gibranoderenz
@@ -11,3 +11,7 @@ ZCZC W04 Kenzo911
 ZCZC W05 matthew-rizky-hartadi
 ZCZC W05 mhadziqrazin
 ZCZC W05 mariethaasnat
+ZCZC W06 mhmmd-attar
+ZCZC W06 MozaAdirafi
+ZCZC W06 nafisazizir
+
