@@ -66,7 +66,7 @@ ZCZC W06 180 L15 Weekl Assignment 06
 ZCZC W06 5 L40 Update myupdate.txt
 ZCZC W06 20 L43 Update myrank.txt
 ZCZC W06 40 L41 Update mylog.txt
-ZCZC W06 15 L01 Answer PopQuiz W06
+ZCZC W06 30 L01 Answer PopQuiz W06
 ZCZC W06 10 L03 git add, commit, push
 
 
