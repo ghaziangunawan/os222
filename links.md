@@ -42,6 +42,6 @@ essential C language basics to know
 9. [os222 silberschatz slides about main memory](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch9.pptx)<br>
 slides for main memory taken from the silberschatz book. Provide a more compressed version for quick reading of the silberschatz book
 
-10. [Page Offset - ScienceDirect](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch9.pptx](https://www.sciencedirect.com/topics/computer-science/page-offset)<br>
-Quick references about page offset and memory
+
+
 
