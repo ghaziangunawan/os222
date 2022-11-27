@@ -1,4 +1,4 @@
-# WEEKLY 6 of 10 RANKS
+# WEEKLY 9 of 10 RANKS
 ZCZC W02 hanstm
 ZCZC W02 hugo-setiawan
 ZCZC W02 gibranoderenz
@@ -20,3 +20,6 @@ ZCZC W07 NeoZap
 ZCZC W08 NLexi
 ZCZC W08 Pyqe
 ZCZC W08 raihankp
+ZCZC W09 raizazaa
+ZCZC W09 rayhanrandi
+ZCZC W09 rikzakurnia
