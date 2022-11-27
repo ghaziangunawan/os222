@@ -82,6 +82,12 @@ ZCZC W08 100 L02 Asyncrhonous Class
 ZCZC W08 5 L05 Doing first weekly quiz
 ZCZC W08 3 L05 Quiz 2
 ZCZC W08 30 L05 POP QUIZ WEEK08
+ZCZC WO9 200 L11 Doing Assignment
+ZCZC W09 100 L02 ZOOM meetings related
+ZCZC W09 100 L02 Asyncrhonous Class
+ZCZC W09 5 L05 Doing first weekly quiz
+ZCZC W09 3 L05 Quiz 2
+ZCZC W09 20 L05 POP QUIZ WEEK09
 
 
 
