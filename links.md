@@ -42,6 +42,13 @@ essential C language basics to know
 9. [os222 silberschatz slides about main memory](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/PPTX-dir/ch9.pptx)<br>
 slides for main memory taken from the silberschatz book. Provide a more compressed version for quick reading of the silberschatz book
 
+10. [Explanation about memory page](https://en.wikipedia.org/wiki/Page_(computer_memory))<br>
+ For more references about memory paging
+
+11. [More explanation about I/O Systems](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/13_IOSystems.html)<br>
+  If you need more explanation about I/O
+
+
 
 
 
